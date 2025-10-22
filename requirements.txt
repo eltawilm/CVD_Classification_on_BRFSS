@@ -1,0 +1,14 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+
+# Machine Learning
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+
+# Notebook Environment
+jupyter>=1.0
+notebook>=7.0
+jupyterlab>=4.2
