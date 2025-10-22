@@ -17,6 +17,3 @@ The work reproduces and re-evaluates the cardiovascular disease (CVD) classifica
 3. Compare resulting performance metrics and calibration.
 
 ---
-
-## 🧪 Repository Structure
-
