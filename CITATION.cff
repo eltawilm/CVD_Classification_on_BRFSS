@@ -1,0 +1,18 @@
+
+---
+
+## 🧩 **CITATION.cff**
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this code, please cite the following work:"
+authors:
+  - family-names: "Eltawil"
+    given-names: "Mohamed"
+title: "Heart Disease Prediction – Data Leakage Reanalysis"
+version: "1.0"
+date-released: "2025-10-22"
+url: "https://github.com/<your-username>/HeartDisease-Leakage-Reanalysis"
+repository-code: "https://github.com/<your-username>/HeartDisease-Leakage-Reanalysis"
+license: "MIT"
+type: "software"
