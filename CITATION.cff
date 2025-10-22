@@ -1,18 +1,18 @@
-
----
-
-## 🧩 **CITATION.cff**
-
-```yaml
 cff-version: 1.2.0
-message: "If you use this code, please cite the following work:"
+message: "If you use this repository, please cite the following work:"
 authors:
   - family-names: "Eltawil"
     given-names: "Mohamed"
-title: "Heart Disease Prediction – Data Leakage Reanalysis"
-version: "1.0"
+title: "CVD Classification on BRFSS – Data Leakage Reanalysis"
+version: "1.0.0"
 date-released: "2025-10-22"
-url: "https://github.com/<your-username>/HeartDisease-Leakage-Reanalysis"
-repository-code: "https://github.com/<your-username>/HeartDisease-Leakage-Reanalysis"
+url: "https://github.com/eltawilm/CVD_Classification_on_BRFSS"
+repository-code: "https://github.com/eltawilm/CVD_Classification_on_BRFSS"
 license: "MIT"
 type: "software"
+keywords:
+  - "machine learning"
+  - "cardiovascular disease"
+  - "data leakage"
+  - "BRFSS"
+  - "reproducibility"
